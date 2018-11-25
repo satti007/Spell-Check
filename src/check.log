@@ -1,0 +1,21 @@
+python word_spell_check.py ../data/Test/words_inter.in      > ../data/Test/test_words_inter.out
+--- 60.7689890862 seconds ---
+################
+
+0.68
+################
+
+python phrase_check.py     ../data/Test/phrases_inter.in    > ../data/Test/test_phrases_inter.out
+--- 51.4515609741 seconds ---
+################
+
+0.511
+################
+
+python phrase_check.py     ../data/Test/sentences_inter.in  > ../data/Test/test_sentences_inter.out
+--- 103.346118927 seconds ---
+################
+
+0.313
+################
+
