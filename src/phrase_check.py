@@ -1,8 +1,8 @@
-import numpy as np
 import sys
-from word_spell_check0 import *
 import copy
 import string
+import numpy as np
+from phrase_spell_check import *
 
 k = 3 #k-gram
 

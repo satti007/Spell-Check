@@ -1,9 +1,10 @@
 # Spell-Check
 
-packages : numpy, pandas, doublemetaphone 
+packages : numpy, pandas, metaphone 
+
 cmd to install package: sudo -H pip install <package-name>
 
-Instructions:
+Instructions: <br/>
 python word_spell_check.py <path to test file>
 python phrase_check.py <path to test file>
 
